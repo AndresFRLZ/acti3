@@ -7,7 +7,7 @@ import NewRestaurant from './pages/NewRestaurant';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/acti3">
       <Navbar />
       <div className="container mt-4"> {}
         <Routes>
